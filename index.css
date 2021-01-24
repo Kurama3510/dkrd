@@ -1,0 +1,71 @@
+
+h1 {
+text-align: center;
+font-size: 24px;
+}
+
+p {
+font-size: 120%;
+}
+
+
+#r1:{
+color:#FF0000;
+}
+#r2:{
+color:#FF1493;
+}
+#r3:{
+color:#FFFF00;
+}
+#r4:{
+color:#66CDAA;
+}
+#r1:visited{
+color:#FF1493;
+}
+r2:visited{
+color:#0000FF;
+}
+#r3:visited{
+color:#00FFFF;
+}
+#r4:visited{
+color:#32CD32;
+}
+
+@media(min-width: 992px)
+{
+	
+
+
+
+
+
+
+
+
+
+
+}
+@media(min-width:768px) and (max-width:992px)
+{
+	
+	
+	div
+	{
+		width:200px;
+	}
+	
+	
+	
+	
+	
+}
+@media(max-width:768px)
+{
+	div
+	{
+		width:50px;
+	}
+	
